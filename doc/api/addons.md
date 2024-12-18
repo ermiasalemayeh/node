@@ -3,6 +3,7 @@
 <!--introduced_in=v0.10.0-->
 
 <!-- type=misc -->
+thank you
 
 _Addons_ are dynamically-linked shared objects written in C++. The
 [`require()`][require] function can load addons as ordinary Node.js modules.
